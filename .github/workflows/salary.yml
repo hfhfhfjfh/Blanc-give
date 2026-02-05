@@ -23,4 +23,5 @@ jobs:
         env:
           # GitHub Secrets se key lega
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
-        run: node scripts/give-salary.js
+        run: node give-salary.js
+        
