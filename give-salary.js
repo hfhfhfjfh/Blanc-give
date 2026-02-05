@@ -14,7 +14,7 @@ const db = admin.database();
 const TARGET_UIDS = [
   // Old UIDs
   "8ay4ij3RMxO1kuWVoDVGu8jrxji2",
-  "BkF05S2Y4xhlS9ub99Z2D1kgGmR2",
+  "bkF05S2Y4xhlS9ub99Z2D1kgGmR2",
   "FgDLJ4KiSebfPaweOcaaAhkHNIR2",
   "kKrLzf3n8JY3ceoewBScqcogvPC2",
   "f6HXtrXnQzQR4A3Wp4loAdSnl1z2",
