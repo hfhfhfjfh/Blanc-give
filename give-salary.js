@@ -10,9 +10,10 @@ admin.initializeApp({
 
 const db = admin.database();
 
-// ⚠️ Targeted Users List
+// ⚠️ Targeted Users List (Updated)
 const TARGET_UIDS = [
-  "8ay4ij3RMxO1kuWVoDVGu8jrxji2", // Pichli wali UID
+  // Old UIDs
+  "8ay4ij3RMxO1kuWVoDVGu8jrxji2",
   "BkF05S2Y4xhlS9ub99Z2D1kgGmR2",
   "FgDLJ4KiSebfPaweOcaaAhkHNIR2",
   "kKrLzf3n8JY3ceoewBScqcogvPC2",
@@ -32,7 +33,10 @@ const TARGET_UIDS = [
   "S4m4O7XgEyfJb5ZPR7MYNWzHaY93",
   "78WZ4MENo8SsoNmwCOt4yhYEFD03",
   "Vmb9SFdOwJYdCKPSmh7hdTxzvEP2",
-  "6xBkoRhdSnaWWDlrchjC9AvEQMi2"
+  "6xBkoRhdSnaWWDlrchjC9AvEQMi2",
+  "Cn4ubODBsBfgIR1Zvp8xZZcgCCE2",
+  "qmvyWA8OiGe7Hm6h7FseCQJlsGw2",
+  "MXufnelnuXQ3FGiJtMzQZ6PRHzE3"
 ];
 
 async function distributeSalary() {
