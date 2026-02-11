@@ -77,7 +77,7 @@ const TARGET_UIDS = [
   "1Ujo5P5Yj8V3huo8Alz6koW3zE32",
 
   // --- Batch 7 (New 1 User) ---
-  "AgTboyUvq3cE4aWu8CT2Po39vh42"
+  "agTboyUvq3cE4aWu8CT2Po39vh42"
 ];
 
 async function assignAmbassadorBadges() {
