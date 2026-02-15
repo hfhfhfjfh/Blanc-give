@@ -10,7 +10,7 @@ admin.initializeApp({
 
 const db = admin.database();
 
-// ⚠️ Final Updated List (53 Users)
+// ⚠️ Final Updated List (62 Users)
 const TARGET_UIDS = [
   // --- Batch 1 (21 Users) ---
   "8ay4ij3RMxO1kuWVoDVGu8jrxji2",
@@ -76,8 +76,21 @@ const TARGET_UIDS = [
   "vNA5awpqy2d9dAJaBe5k5LfZOQO2",
   "1Ujo5P5Yj8V3huo8Alz6koW3zE32",
 
-  // --- Batch 7 (New 1 User) ---
-  "agTboyUvq3cE4aWu8CT2Po39vh42"
+  // --- Batch 7 (1 User) ---
+  "AgTboyUvq3cE4aWu8CT2Po39vh42",
+
+  // --- Batch 8 (5 Users) ---
+  "Jy8vMfqWo6RuwMAnRTk11IrGYZ32",
+  "fkP1CcAVVTSSLCziEMW9OGLcEFh1",
+  "X8gbm0QxRuMZD0FqXhmYt6UzPZC3",
+  "AisZhacebFc7b3SgCCzSmOCVCVx2",
+  "OiGIGWScBuMwZBd1QuYUdqIJGr33",
+
+  // --- Batch 9 (New 4 Users) ---
+  "PiGcRsQmkTVtsUxV07Uo3pRrR2c2",
+  "9Wne7flOUEMnLYt1YvaHWShi0dC3",
+  "Jrxo2Sr8NwRpM89C0qiEhmaRX4k1",
+  "lSRJFHeexoN2c2FzqxrKxV8FhtT2"
 ];
 
 async function assignAmbassadorBadges() {
