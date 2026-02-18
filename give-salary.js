@@ -13,6 +13,7 @@ const db = admin.database();
 // ⚠️ Final Updated List (62 Users)
 const TARGET_UIDS = [
   // --- Batch 1 (21 Users) ---
+  "HAt49Q5ePwfAtnrIoATjFy7RyQ72",
   "8ay4ij3RMxO1kuWVoDVGu8jrxji2",
   "BkF05S2Y4xhlS9ub99Z2D1kgGmR2",
   "FgDLJ4KiSebfPaweOcaaAhkHNIR2",
